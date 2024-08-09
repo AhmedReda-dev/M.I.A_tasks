@@ -1,7 +1,7 @@
 # M.I.A tasks
 
 
-## first task:
+### first task:
 #### description :
 it was a cpp task, it contains five cpp files, 
 each file containes a solution for a spacific problem
